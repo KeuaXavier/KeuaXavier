@@ -29,8 +29,6 @@
   </div>
           
 <img height="28px" src="https://sites.google.com/site/tutorialebackground/_/rsrc/1367281771560/home/fundo-transparente-de-png/Sem%20t%C3%ADtulo.png"/> 
-  
-![Snake animation](https://github.com/KeuaXavier/KeuaXavier/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **KeuaXavier/KeuaXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
