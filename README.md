@@ -1,6 +1,6 @@
 ### <h1>Olá, meu nome é Keuã Xavier 👋</h1>
 
-  Sou um brasileiro amante de tecnologia que resolver se tornar um desenvolvedor para se aprofundar mais no mundo da tecnologia
+  Sou um brasileiro amante de tecnologia que decidiu tornar-se um desenvolvedor para se aprofundar no mundo da tecnologia.
   
   - 🌱 Cursando Desenvolvimento de software na Cubos Academy
   - 🌱 Javascript | HTML | CSS | Git | Node.js
